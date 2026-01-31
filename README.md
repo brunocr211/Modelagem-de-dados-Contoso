@@ -16,3 +16,15 @@ Este projeto do Power BI fornece uma análise aprofundada dos dados de vendas da
 - 🔹 **Power BI Desktop:** utilizado para modelagem de dados, visualização e relatórios interativos.
 - 🔹 **Power Query:** aplicado para limpeza, transformação e modelagem de dados.
 - 🔹 **DAX (Data Analysis Expressions):** empregado para colunas calculadas, medidas, KPIs e inteligência temporal.
+---
+
+## 📈 Análise e insights
+### 1️⃣ **Desempenho das vendas**
+📊 Visualização das tendências totais de vendas, lucros e receitas.  
+📅 Identificação dos períodos de pico de vendas e padrões sazonais.  
+📈 Comparação do crescimento das vendas ano a ano (YoY) para avaliar a melhoria do desempenho.  
+
+### 2️⃣ **Análise do cliente**
+👥 Segmentação dos clientes com base nos padrões de compra.  
+📊 Visualização dos dados demográficos dos clientes e da sua contribuição para a receita.  
+🏆 Identificação de clientes de alto valor e compradores recorrentes.  

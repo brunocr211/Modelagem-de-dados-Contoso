@@ -52,7 +52,3 @@ Este projeto do Power BI fornece uma análise aprofundada dos dados de vendas da
 - **📉 Análise de tendências** - Identifica padrões de vendas e tendências de crescimento ao longo do tempo.  
 
 ---
-
-
-
-Traduzido com a versão gratuita do tradutor - DeepL.com

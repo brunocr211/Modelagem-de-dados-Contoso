@@ -52,3 +52,12 @@ Este projeto do Power BI fornece uma análise aprofundada dos dados de vendas da
 - **📉 Análise de tendências** - Identifica padrões de vendas e tendências de crescimento ao longo do tempo.  
 
 ---
+
+## 🖼️ Imagens
+| Visual | Descrição |
+|---------|--------------|
+| ![Realização](Screenshot/Achievement.png) | Métricas de desempenho importantes, como vendas totais e lucro |
+| ![KPI básico](Screenshot/Basic%20KPI.png) | Visão geral dos indicadores-chave de desempenho |
+| ![Navegação hierárquica](Captura de ecrã/hierarchy%20show.png) | Informações detalhadas sobre vendas por região, país e cidade |
+| ![Análise de vendas](Captura de ecrã/sales.png) | Visualização detalhada do desempenho das vendas |
+| ![Análise de tendências](Captura de ecrã/Trend.png) | Gráficos de linhas mostrando tendências e crescimento das vendas |

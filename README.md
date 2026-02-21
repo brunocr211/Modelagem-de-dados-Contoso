@@ -61,3 +61,11 @@ Este projeto do Power BI fornece uma análise aprofundada dos dados de vendas da
 | ![Navegação hierárquica](Captura de ecrã/hierarchy%20show.png) | Informações detalhadas sobre vendas por região, país e cidade |
 | ![Análise de vendas](Captura de ecrã/sales.png) | Visualização detalhada do desempenho das vendas |
 | ![Análise de tendências](Captura de ecrã/Trend.png) | Gráficos de linhas mostrando tendências e crescimento das vendas |
+
+---
+
+## 📋 Conclusão
+Este painel do Power BI fornece às partes interessadas informações úteis para melhorar a tomada de decisões. Ao utilizar o Power BI Desktop, o Power Query e o DAX, este projeto revela de forma eficaz as tendências de vendas, o comportamento dos clientes e o desempenho dos produtos.
+
+---
+
